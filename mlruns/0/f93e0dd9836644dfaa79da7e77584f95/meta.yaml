@@ -1,0 +1,15 @@
+artifact_uri: file:///home/oem/repositories/mlflow_examples/mlruns/0/f93e0dd9836644dfaa79da7e77584f95/artifacts
+end_time: 1640779369907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f93e0dd9836644dfaa79da7e77584f95
+run_uuid: f93e0dd9836644dfaa79da7e77584f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1640779369899
+status: 3
+tags: []
+user_id: oem
